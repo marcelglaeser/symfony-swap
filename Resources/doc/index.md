@@ -1,13 +1,7 @@
 # Installation
 
-Add this line to your `composer.json` file:
-
-```json
-{
-    "require": {
-        "florianv/swap-bundle": "~2.0"
-    }
-}
+```bash
+$ composer require florianv/symfony-swap php-http/message php-http/guzzle6-adapter
 ```
 
 Update the dependency by running:
